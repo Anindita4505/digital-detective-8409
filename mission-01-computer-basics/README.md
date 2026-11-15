@@ -64,4 +64,8 @@ I understood how a computer accepts input, processes information, produces outpu
 
 ### Commit Details :
 
-To be updated after committing and pushing this mission.
+### Commit Details
+
+- Commit message: Complete computer basics and IPOS mission
+- Branch: main
+- Successfully pushed to GitHub.
