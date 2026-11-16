@@ -63,4 +63,21 @@ The `evidence/` folder is reserved for privacy-safe screenshots and supporting p
 
 ## Version Control
 
+Each mission will be documented and saved through a dedicated Git commit. Changes will be pushed to GitHub to maintain a record of progress.
+
+## My Learning
+
+Through the Digital Detective assignment, I have developed a better understanding of how computers work and how software interacts with hardware.
+
+Some of the key things I have learned so far include:
+
+- Understanding the Input-Process-Output-Storage (IPOS) cycle.
+- Using Terminal commands to navigate directories and manage files.
+- Understanding operating system responsibilities, processes, and file permissions.
+- Writing and executing basic Python programs.
+- Converting numbers between decimal, binary, and hexadecimal systems.
+- Using Git to track changes, create commits, and manage branches.
+- Using GitHub to store and share project work.
+
+This assignment has helped me connect theoretical computer science concepts with practical activities. I have also gained confidence in using command-line tools and managing my work through version control.
 Each mission was documented and committed as part of the assignment's version-control workflow. The required changes were pushed to GitHub, and the Git history records the progress made throughout the project.
