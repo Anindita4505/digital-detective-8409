@@ -2,9 +2,9 @@
 
 ## About This Project
 
-This repository contains my work for the Digital Detective Diwali Independent Learning Assignment.
+This repository contains my completed work for the Digital Detective Diwali Independent Learning Assignment.
 
-Through this assignment, I will explore essential computer science concepts using practical activities involving computer fundamentals, terminal commands, operating systems, programming, number systems, Git and GitHub, and computer networking.
+The assignment helped me explore essential computer science concepts through practical activities involving computer fundamentals, terminal commands, operating systems, programming, number systems, Git and GitHub, and computer networking.
 
 ## Mission Index
 
@@ -20,20 +20,46 @@ Through this assignment, I will explore essential computer science concepts usin
 | 7       | [Networking](mission-07-networking/README.md)             |
 | 8       | [Final Report](mission-08-final-report/README.md)         |
 
+## Topics Explored
+
+- Computer fundamentals: IPOS cycle, hardware, software and computer systems.
+- Terminal: navigation, file management, commands, flags and pipes.
+- Operating systems: processes, storage, paths and permissions.
+- Programming: Python execution, compilers and interpreters.
+- Number systems: binary, decimal, hexadecimal and character encoding.
+- Version control: Git commands, commits, branches and GitHub Pull Requests.
+- Networking: LAN, MAN, WAN, DNS, routers, protocols and client-server communication.
+
+## Running the Number Converter
+
+The number converter is located inside `mission-05-numbers-data/`.
+
+To run it:
+
+1. Open the repository folder in Terminal.
+2. Navigate to the mission folder:
+
+   `cd mission-05-numbers-data`
+
+3. Execute the Python program:
+
+   `python3 number_converter.py`
+
+4. Enter a decimal number when prompted.
+
+The program displays its binary and hexadecimal representations.
+
+## What I Learned
+
+Through these missions, I developed a basic understanding of how computers work and communicate. I practised using Terminal, explored operating system responsibilities, wrote and executed a Python program, and learned how different number systems represent data.
+
+I also gained practical experience with Git and GitHub, including tracking changes, creating commits, working with branches and opening a Pull Request. Finally, I learned how DNS, routers and networking protocols help computers communicate over the internet.
+
 ## Repository Structure
 
-Each mission has its own folder containing a README file to document the objective, work completed, commands or tools used, understanding, difficulties, solutions, and evidence.
+Each mission has its own folder containing a README file that documents its objective, completed work, commands or tools used, understanding, difficulties, solutions and evidence.
 
-The 'evidence/' folder is reserved for screenshots and supporting proof of completed activities.
-
-## Learning Goals
-
-- Understand computer hardware and software.
-- Learn basic terminal and operating system operations.
-- Develop introductory Python programming skills.
-- Understand binary, decimal, and hexadecimal number systems.
-- Learn Git version control and GitHub collaboration.
-- Understand basic computer networking concepts.
+The `evidence/` folder is reserved for privacy-safe screenshots and supporting proof of completed activities.
 
 ## Version Control
 
@@ -54,3 +80,4 @@ Some of the key things I have learned so far include:
 - Using GitHub to store and share project work.
 
 This assignment has helped me connect theoretical computer science concepts with practical activities. I have also gained confidence in using command-line tools and managing my work through version control.
+Each mission was documented and committed as part of the assignment's version-control workflow. The required changes were pushed to GitHub, and the Git history records the progress made throughout the project.

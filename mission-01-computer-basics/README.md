@@ -1,3 +1,5 @@
+# Mission 1 — Know your computer
+
 ### Task 1.1 — IPOS: Typing and Saving a Document :-
 
 | Stage      | What happens?                                                                    | Hardware/component |
