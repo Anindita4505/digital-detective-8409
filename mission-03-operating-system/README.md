@@ -17,7 +17,7 @@ Used Terminal commands to inspect system information.
 | Information explored | What it tells you                                | Observation                                                                                               |
 | -------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | Operating system     | Identifies the operating system and its version. | macOS 26.5                                                                                                |
-| Current account      | Identifies the active user account.              | Anindita                                                                                                  |
+| Current account      | Identifies the active user account.              | [redacted]                                                                                                |
 | Available storage    | Shows total, used and available storage.         | 460 GiB total, 12 GiB used, 369 GiB available, 4% usage                                                   |
 | System activity      | Shows running processes and resource usage.      | 659 processes: 2 running and 657 sleeping; CPU was approximately 88.97% idle at the time of the snapshot. |
 
@@ -36,7 +36,7 @@ Examples of processes:
 
 **Absolute path:** A complete path starting from the root directory.
 
-Example: '/Users/Anindita/digital-detective-8409/basic-practice'
+Example: '/Users/[redacted]/digital-detective-8409/basic-practice'
 
 **Relative path:** A path described in relation to the current working directory.
 
