@@ -86,3 +86,5 @@ Some of the key things I learned included:
 This assignment helped me connect theoretical computer science concepts with practical activities. I also gained confidence in using command-line tools and managing my work through version control.
 
 Each mission was documented and committed as part of the assignment's version-control workflow. The required changes were pushed to GitHub, and the Git history records the progress made throughout the project.
+
+Working with branches and Pull Requests also taught me how developers can review changes separately before integrating them into the main project.
